@@ -24,6 +24,6 @@ To run this example you'll need to use a local server. The steps below will help
 * 4 -- With your server running, visit the site in your browser: `http://localhost:8000`
 
 ## Built With
--[Leaflet.js](https://leafletjs.com)
--[Mapbox](https://www.mapbox.com/) - You can create a free account
+*[Leaflet.js](https://leafletjs.com)
+*[Mapbox](https://www.mapbox.com/) - You can create a free account
 
