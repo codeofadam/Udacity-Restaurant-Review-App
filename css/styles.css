@@ -211,7 +211,7 @@ nav h1 a {
 .inside #footer {
   bottom: 0;
   position: absolute;
-  width: 50%;
+  width: 45%;
 }
 #restaurant-name {
   color: #f18200;
@@ -307,18 +307,17 @@ nav h1 a {
     width: 100%;
     padding: 20px 0;
   }
+  
 }
-@media (min-width: 768px) {
+@media (min-width: 769px) {
   #reviews-list {
     margin-right: 10%;
   }
   #reviews-list li {
     padding-bottom: 0;
   }
-}
-@media(max-width: 1300px) and (min-width: 769px) {
-  #reviews-list {
-    /* margin-right: 0; */
-
+  .inside #footer {
+    width: 100%;
+    padding-top: 10px;
   }
 }
