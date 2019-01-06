@@ -15,7 +15,7 @@ To run this example you'll need to use a local server. The steps below will help
 
 * 1 - Download the GitHub zip file or clone the repository onto your local workstation:
     ```
-    https://github.com/codeofadam/udacity-feed-reader-testing
+    https://github.com/codeofadam/Udacity-Restaurant-Review-App
     ```
 * 2 - Using Terminal enter into project directory
 * 3 - In a terminal, check the version of Python you have: `python -V`.
