@@ -6,7 +6,7 @@ For this project, I converted a static webpage to a mobile-ready web application
 
 The started code is forked from [Udacity's](https://github.com/udacity/mws-restaurant-stage-1) github.
 The project work has improved below three areas:
-- Responsive Design,
+- Responsive Desig,
 - Accessibility
 - Offline Use.
 
@@ -24,6 +24,6 @@ To run this example you'll need to use a local server. The steps below will help
 * 4 -- With your server running, visit the site in your browser: `http://localhost:8000`
 
 ## Built With
-[Leaflet.js](https://leafletjs.com)
-[Mapbox](https://www.mapbox.com/) - You can create a free account
+-[Leaflet.js](https://leafletjs.com)
+-[Mapbox](https://www.mapbox.com/) - You can create a free account
 
